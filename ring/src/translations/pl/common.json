@@ -1,0 +1,10 @@
+{
+  "error": {
+    "503": "Serwer API jest niedostępny",
+    "404": "Wprowadzony adres nie został odnaleziony"
+  },
+  "validation": {
+    "is_required": "Pole jest wymagane",
+    "too_short": "Wartość jest za krótka"
+  }
+}
